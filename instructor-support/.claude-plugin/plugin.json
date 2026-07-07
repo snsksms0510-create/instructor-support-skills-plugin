@@ -1,0 +1,18 @@
+{
+  "name": "instructor-support",
+  "version": "0.1.0",
+  "description": "교수자 지원 — 교수설계 가이드 에이전트 (7 스킬: 강의계획서·차시 원고·PPT 개요·정렬 점검·루브릭·평가 청사진·도구 매핑)",
+  "metadata": {
+    "layer": "domain",
+    "domain": "교수설계",
+    "origin": "AX 연구소 거버넌스 (교수설계 가이드 에이전트)",
+    "foundations": [
+      "ABCD 학습목표 (Heinich et al.)",
+      "Bloom 개정분류 (Anderson & Krathwohl, 2001)",
+      "구성적 정렬 (Biggs, 1996)",
+      "백워드 설계·WHERETO (Wiggins & McTighe, 2005)",
+      "멀티미디어 학습 원리 (Mayer, 2009)",
+      "SOLO 분류 · 평가 청사진(Table of Specifications)"
+    ]
+  }
+}

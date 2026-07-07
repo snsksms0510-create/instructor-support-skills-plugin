@@ -1,0 +1,11 @@
+{
+  "name": "instructor-support-skills",
+  "owner": { "name": "AX 연구소" },
+  "plugins": [
+    {
+      "name": "instructor-support",
+      "source": "./instructor-support",
+      "description": "교수자 지원 — 교수설계 전 과정(강의계획서→차시 원고→PPT→정렬 점검) 가이드 에이전트 (7 스킬)"
+    }
+  ]
+}

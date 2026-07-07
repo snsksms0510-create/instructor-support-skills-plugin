@@ -1,0 +1,10 @@
+# 내부 자료 (공개 제외) — 연구소 거버넌스 원문·프로토타입
+_context/
+
+# Claude Code 내부 파일
+.claude/
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+*.swp
